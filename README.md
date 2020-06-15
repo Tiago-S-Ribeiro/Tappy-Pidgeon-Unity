@@ -1,8 +1,6 @@
-<img src="/Images/TappyPidgeon_LOGO.png" alt="logo" width="650" height="">
+<img align="center" width="700" height="" src="/Images/TappyPidgeon_LOGO.png">
 
-<img src="/Images/logo.png" alt="logo" width="180" height="">
-
-<img align="right" width="180" height="" src="/Images/logo.png">
+<img align="center" width="180" height="" src="/Images/logo.png">
 
 ---------------------------------
 
