@@ -14,6 +14,21 @@
 
 ----------------------------------
 
+Starting Screen
+
+![Gameplay](Images/mainScreen.jpg)
+
+----------------------------------
+
+Gameplay
+
+![Gameplay](Images/gameplay.jpg)
+
+----------------------------------
+
+Game Over
+
+![Gameplay](Images/gameOver.jpg)
 
 ----------------------------------
 
