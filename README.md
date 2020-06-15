@@ -1,6 +1,9 @@
 <img src="/Images/TappyPidgeon_LOGO.png" alt="logo" width="650" height="">
 
 <img src="/Images/logo.png" alt="logo" width="180" height="">
+
+<img align="right" width="180" height="" src="/Images/logo.png">
+
 ---------------------------------
 
 #### Android game, developed in Unity.
