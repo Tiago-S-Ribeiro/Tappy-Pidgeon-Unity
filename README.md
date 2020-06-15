@@ -1,10 +1,10 @@
 <img align="center" width="700" height="" src="/Images/TappyPidgeon_LOGO.png">
 
-<img align="center" width="180" height="" src="/Images/logo.png">
-
 ---------------------------------
 
 #### Android game, developed in Unity.
+
+<img align="center" width="180" height="" src="/Images/logo.png">
 
 * A remake of the Flappy Bird arcade game.
 * I don't own any of the art used in this project.
