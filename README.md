@@ -1,4 +1,4 @@
-<img src="/Images/TappyPidgeon_LOGO.png" alt="logo" width="200" height="">
+<img src="/Images/TappyPidgeon_LOGO.png" alt="logo" width="1000" height="">
 
 ---------------------------------
 
