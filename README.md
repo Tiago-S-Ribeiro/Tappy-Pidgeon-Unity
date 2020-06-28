@@ -14,23 +14,13 @@
 
 ----------------------------------
 
-Starting Screen
+Starting Screen, Gameplay and GameOver print screens.
 
-![Gameplay](Images/mainScreen.jpg)
-
-----------------------------------
-
-Gameplay
-
-![Gameplay](Images/gameplay.jpg)
+![Gameplay](Images/prints.jpg)
 
 ----------------------------------
 
-Game Over
 
-![Gameplay](Images/gameOver.jpg)
-
-----------------------------------
 
 #### Art
 
